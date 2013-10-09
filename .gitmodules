@@ -1,6 +1,3 @@
-[submodule "scoutify-hub"]
-	path = scoutify-hub
-	url = git://github.com/team461WBI/scoutify-hub.git
 [submodule "scoutify-client"]
 	path = scoutify-client
 	url = git://github.com/team461WBI/scoutify-client.git
