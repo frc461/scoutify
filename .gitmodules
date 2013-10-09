@@ -4,3 +4,6 @@
 [submodule "scoutify-viewer"]
 	path = scoutify-viewer
 	url = git://github.com/team461WBI/scoutify-viewer.git
+[submodule "scoutify-merger"]
+	path = scoutify-merger
+	url = git://github.com/team461WBI/scoutify-merger.git
