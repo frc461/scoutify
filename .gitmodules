@@ -1,9 +1,14 @@
 [submodule "scoutify-client"]
 	path = scoutify-client
 	url = git://github.com/team461WBI/scoutify-client.git
+
 [submodule "scoutify-viewer"]
 	path = scoutify-viewer
 	url = git://github.com/team461WBI/scoutify-viewer.git
+
 [submodule "scoutify-merger"]
 	path = scoutify-merger
 	url = git://github.com/team461WBI/scoutify-merger.git
+[submodule "scoutify-database"]
+	path = scoutify-database
+	url = git://github.com/team461WBI/scoutify-database.git
