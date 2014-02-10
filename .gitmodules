@@ -9,6 +9,7 @@
 [submodule "scoutify-merger"]
 	path = scoutify-merger
 	url = git://github.com/team461WBI/scoutify-merger.git
+
 [submodule "scoutify-database"]
 	path = scoutify-database
 	url = git://github.com/team461WBI/scoutify-database.git
